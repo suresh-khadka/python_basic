@@ -1,11 +1,11 @@
-# Python Basics for Data Science 🐍📊
+# Python Basics for Data Science
 
 This repository contains my learning and practice work on **Python fundamentals**, with a focus on concepts required for **Data Science**.  
 It is designed to build a strong programming foundation that is also useful in other technical fields such as software development, automation, and problem-solving.
 
 ---
 
-## 📌 What this repository covers
+## What this repository covers
 
 The repository includes Python basics such as:
 
@@ -23,7 +23,7 @@ These topics are essential for understanding and solving **data science problems
 
 ---
 
-## 🎯 Purpose of this repository
+## Purpose of this repository
 
 - To strengthen my Python fundamentals  
 - To understand how Python is used in Data Science workflows  
